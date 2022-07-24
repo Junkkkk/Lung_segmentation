@@ -8,6 +8,9 @@ x-ray segmentation
 4. Unet
 
 ## architeture
+### FCN
+<img width="1508" alt="FCN" src="https://user-images.githubusercontent.com/46311404/180638287-d9aa50c5-0883-4866-a6aa-5a28c32da9c4.png">
+
 ### Unet
 <img width="1008" alt="unet" src="https://user-images.githubusercontent.com/46311404/180638210-52673df1-1d5f-42ea-b56c-e462e41341d8.png">
 
