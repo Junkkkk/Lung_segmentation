@@ -7,6 +7,10 @@ x-ray segmentation
 3. FCN8s
 4. Unet
 
+## architeture
+### Unet
+<img width="1008" alt="unet" src="https://user-images.githubusercontent.com/46311404/180638210-52673df1-1d5f-42ea-b56c-e462e41341d8.png">
+
 ## Reference
 1. Fully Convolutional Networks for Semantic Segmentation (https://arxiv.org/abs/1411.4038)
 2. U-Net: Convolutional Networks for Biomedical Image Segmentation (https://arxiv.org/pdf/1505.04597.pdf)
