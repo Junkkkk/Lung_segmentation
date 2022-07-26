@@ -1,4 +1,4 @@
-# Lung_segmentation
+# Lung segmentation with pytorch
 x-ray segmentation 
 
 ## Model
